@@ -278,11 +278,7 @@ void loop() {
 
 ---
 
- 
 # Output:
-
 <img width="1485" height="783" alt="image" src="https://github.com/user-attachments/assets/54ee61d5-4647-43bf-ae56-557e1ef92ba0" />
-
-
 ## Result:
 The home automation circuit was successfully simulated in Tinkercad. The LDR and temperature sensor provided real-time light and temperature readings, which were correctly displayed on the LCD. The push button activated the LED and buzzer as expected. All components functioned properly, demonstrating a working prototype of a basic home automation system.
